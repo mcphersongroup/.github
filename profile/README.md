@@ -14,7 +14,7 @@
 We study how drugs move through and act within complex biological systems—linking **pharmacokinetics (PK)**, **pharmacodynamics (PD)**, and **microbiome-host interactions** to improve anti-infective therapy. 
 We emphasize:
 - **Antimicrobial resistance (AMR)** and microbiome-sparing antibiotics 
-- **C. difficile** pathobiology, bile acids, and colonization resistance  
+- *C. difficile* pathobiology, bile acids, and colonization resistance  
 - **Mechanistic PK/PD modeling**, **exposure–response**, and **fitness landscapes**  
 - **Reproducible pipelines** (R/Python, Quarto, Docker, GitHub Actions)
 
@@ -45,19 +45,10 @@ We emphasize:
 
 > Please review data use terms and cite the DOI(s) listed in each repository.
 
----
-
-## 🛠️ Software & reproducibility
-- **Languages**: R, Python  
-- **Docs/Reports**: Quarto; CI with GitHub Actions → HTML/PDF  
-- **Containers**: Docker (per-repo `Dockerfile` and `compose.yaml`)  
-- **Envs**: `renv` (R) / `conda` or `uv` (Python)  
-- **QA**: unit tests, linting, and pre-commit hooks
-
 ```mermaid
 flowchart LR
-  A(Code) --> B(Tests & Lint)
-  B --> C(Docker Build)
-  C --> D(CI: Render Quarto)
-  D --> E(Artifacts: HTML/PDF)
-  E --> F(Release + Zenodo DOI)
+  A(Question / Observation) --> B(Hypothesis)
+  B --> C(Investigation / Experiment)
+  C --> D(Results / Analysis)
+  D --> E(Conclusion / Interpretation)
+  E --> F(Publication / Sharing, DOI)
