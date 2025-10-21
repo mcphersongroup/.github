@@ -2,9 +2,8 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Discipline-Pharmacology-informational" alt="Pharmacology badge">
-  <img src="https://img.shields.io/badge/Focus-PK%2FPD-blue" alt="PK/PD badge">
   <img src="https://img.shields.io/badge/Areas-AMR%20%7C%20Microbiome%20%7C%20C._difficile-orange" alt="Areas badge">
-  <img src="https://img.shields.io/badge/Methods-R%20%7C%20Python%20%7C%20Quarto%20%7C%20Docker-success" alt="Methods badge">
+  <a href="[LICENSE_URL]"><img alt="License" src="https://img.shields.io/badge/License-MIT-blue.svg"></a>
 </p>
 
 <p align="center"><em>A research group of pharmacists, scientists, and clinician-scientists advancing pharmacology through open, reproducible science.</em></p>
@@ -22,23 +21,10 @@ We emphasize:
 ---
 
 ## 🔗 Quick links
-- 🌐 Website: **[mcphersongroup.github.io](https://mcphersongroup.github.io)**
-- 📚 Publications: **[Google Scholar](https://scholar.google.com/citations?user=MsZPCoIAAAAJ&hl=en)**
-- 🧑‍💻 Recruting / Collaboration: **[JOIN_US_URL](https://mcphersongroup.github.io/people/join.html)**
-- ✉️ Contact: **[CONTACT_EMAIL](mailto:jacobmcpherson@utexas.edu;jkmcpherson@uh.edu;jacob@jacobkmcpherson.com)**
-
-<p>
-  <a href="[ORCID_URL]"><img alt="ORCID" src="https://img.shields.io/badge/ORCID-0000-0001-5486-4945-brightgreen"></a>
-  <a href="[LICENSE_URL]"><img alt="License" src="https://img.shields.io/badge/License-MIT-blue.svg"></a>
-</p>
-
----
-
-## 🧭 What we work on
-- **PK/PD for anti-infectives**: target attainment, PTA/MIC distributions, dose optimization  
-- **Microbiome pharmacology**: bile acids, SCFAs, colonization resistance, narrow-spectrum agents  
-- **Computational pipelines**: 16S + shotgun, ASVs, metagenomic classification, reproducible reports  
-- **Translational frameworks**: clinical decision support, stewardship, prospective monitoring
+- 🌐 **[Website](https://mcphersongroup.github.io)**
+- 📚 **[Publications](https://mcphersongroup.github.io/publications/)**
+- 🧑‍💻 **[Recruting](https://mcphersongroup.github.io/people/join.html)**
+- ✉️ **[Contact](mailto:jacobmcpherson@utexas.edu;jkmcpherson@uh.edu;jacob@jacobkmcpherson.com)**
 
 ---
 
