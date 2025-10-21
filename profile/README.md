@@ -6,7 +6,7 @@
   <a href="[LICENSE_URL]"><img alt="License" src="https://img.shields.io/badge/License-MIT-blue.svg"></a>
 </p>
 
-<p align="center"><em>A research lab of pharmacists, pharmacologists, and clinician-scientists advancing pharmacology through open, reproducible science.</em></p>
+<p align="center"><em>A research lab of pharmacists and pharmacologists advancing science through open, reproducible science.</em></p>
 
 ---
 
