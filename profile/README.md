@@ -6,7 +6,7 @@
   <a href="[LICENSE_URL]"><img alt="License" src="https://img.shields.io/badge/License-MIT-blue.svg"></a>
 </p>
 
-<p align="center"><em>A research group of pharmacists, scientists, and clinician-scientists advancing pharmacology through open, reproducible science.</em></p>
+<p align="center"><em>A research lab of pharmacists, pharmacologists, and clinician-scientists advancing pharmacology through open, reproducible science.</em></p>
 
 ---
 
@@ -21,9 +21,9 @@ We emphasize:
 ---
 
 ## 🔗 Quick links
-- 🌐 **[Website](https://mcphersongroup.github.io)**
-- 📚 **[Publications](https://mcphersongroup.github.io/publications/)**
-- 🧑‍💻 **[Recruting](https://mcphersongroup.github.io/people/join.html)**
+- 🌐 **[Website](https://mcphersonlab.github.io)**
+- 📚 **[Publications](https://mcphersonlab.github.io/publications/)**
+- 🧑‍💻 **[Recruting](https://mcphersonlab.github.io/people/join.html)**
 - ✉️ **[Contact](mailto:jacobmcpherson@utexas.edu;jkmcpherson@uh.edu;jacob@jacobkmcpherson.com)**
 
 ---
