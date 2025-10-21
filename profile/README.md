@@ -2,7 +2,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Discipline-Pharmacology-informational" alt="Pharmacology badge">
-  <img src="https://img.shields.io/badge/Areas-AMR%20%7C%20Microbiome%20%7C%20C._difficile-orange" alt="Areas badge">
+  <img src="https://img.shields.io/badge/Areas-AMR%20%7C%20Microbiome%20%7C%20C._difficile-blue" alt="Areas badge">
   <a href="[LICENSE_URL]"><img alt="License" src="https://img.shields.io/badge/License-MIT-blue.svg"></a>
 </p>
 
