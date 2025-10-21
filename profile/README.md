@@ -7,7 +7,6 @@
   <img src="https://img.shields.io/badge/Methods-R%20%7C%20Python%20%7C%20Quarto%20%7C%20Docker-success" alt="Methods badge">
 </p>
 
-<h1 align="center">McPherson Group</h1>
 <p align="center"><em>A research group of pharmacists, scientists, and clinician-scientists advancing pharmacology through open, reproducible science.</em></p>
 
 ---
