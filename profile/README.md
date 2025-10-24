@@ -2,7 +2,6 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Discipline-Pharmacology-informational" alt="Pharmacology badge">
-  <img src="https://img.shields.io/badge/Areas-AMR%20%7C%20Microbiome%20%7C%20C._difficile-blue" alt="Areas badge">
   <a href="[LICENSE_URL]"><img alt="License" src="https://img.shields.io/badge/License-MIT-blue.svg"></a>
 </p>
 
@@ -11,12 +10,10 @@
 ---
 
 ## 👋 Who we are
-We study how drugs move through and act within complex biological systems—linking **pharmacokinetics (PK)**, **pharmacodynamics (PD)**, and **microbiome-host interactions** to improve anti-infective therapy. 
-We emphasize:
-- **Antimicrobial resistance (AMR)** and microbiome-sparing antibiotics 
-- *C. difficile* pathobiology, bile acids, and colonization resistance  
-- **Mechanistic PK/PD modeling**, **exposure–response**, and **fitness landscapes**  
-- **Reproducible pipelines** (R/Python, Quarto, Docker, GitHub Actions)
+We study how drugs move through and act within complex biological systems. We strive to push the boundaries in 
+- The pharmacologists' [**Receptor Theory**](https://www.sciencedirect.com/science/article/pii/B9780323992893000038), the biochemists' [**Transient-State Theory**](https://app-knovel-com.ezproxy.lib.uh.edu/kn/resources/kpEAPISMD1/toc), and the chemists' [**Density Functional Theory**](https://www.nature.com/collections/gcijejjahe)
+- **Infectious Diseases**, **Antimicrobial resistance (AMR)**, microbiome-sparing antibiotics, and  *C. difficile* pathobiology
+- Reproducible pipelines in computational biology, cloud computing, artificial intelligence
 
 ---
 
