@@ -35,7 +35,7 @@ We study how drugs move through and act within complex biological systems. We st
 - **[quarto-lab-style](https://github.com/ORG_OR_USER/quarto-lab-style)** – Shared theme, color tokens, and figure style guide for publications
 
 ---
- -->
+
 
 ## 🗂️ Datasets & resources
 - **Clinical PK datasets** (anonymized / simulated): **[LINK]**  
@@ -51,3 +51,4 @@ flowchart LR
   C --> D(Results / Analysis)
   D --> E(Conclusion / Interpretation)
   E --> F(Publication / Sharing, DOI)
+ -->
