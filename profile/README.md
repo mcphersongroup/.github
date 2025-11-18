@@ -34,21 +34,4 @@ We study how drugs move through and act within complex biological systems. We st
 - **[cdi-bile-acids](https://github.com/ORG_OR_USER/cdi-bile-acids)** – Bile acid profiling + colonization resistance analyses  
 - **[quarto-lab-style](https://github.com/ORG_OR_USER/quarto-lab-style)** – Shared theme, color tokens, and figure style guide for publications
 
----
-
-
-## 🗂️ Datasets & resources
-- **Clinical PK datasets** (anonymized / simulated): **[LINK]**  
-- **AMR susceptibility panels & MIC distributions**: **[LINK]**  
-- **Reference genomes / taxonomies** (manifest + checksums): **[LINK]**
-
-> Please review data use terms and cite the DOI(s) listed in each repository.
-
-```mermaid
-flowchart LR
-  A(Question / Observation) --> B(Hypothesis)
-  B --> C(Investigation / Experiment)
-  C --> D(Results / Analysis)
-  D --> E(Conclusion / Interpretation)
-  E --> F(Publication / Sharing, DOI)
- -->
+-->
