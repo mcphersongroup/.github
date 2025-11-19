@@ -21,7 +21,7 @@ We study how drugs move through and act within complex biological systems. We st
 - 🌐 **[Website](https://mcphersonlab.github.io)**
 - 📚 **[Publications](https://mcphersonlab.github.io/publications/)**
 - 🧑‍💻 **[Recruting](https://mcphersonlab.github.io/people/join.html)**
-- ✉️ **[Contact](mailto:jacobmcpherson@utexas.edu;jkmcpherson@uh.edu;jacob@jacobkmcpherson.com)**
+- ✉️ **[Contact](https://jacobkmcpherson.com/contact)**
 
 ---
 
